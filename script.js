@@ -1,7 +1,7 @@
 // ===== 1) Configure your release asset URLs here (Windows is real; mac is placeholder) =====
 const URLS = {
-  windows: "https://github.com/Shinhai/Pawductive-Updates/releases/download/v1.0.5/Pawductive-Setup-1.0.5.exe",
-  macos:   "https://github.com/Shinhai/Pawductive-Updates/releases/download/vX.Y.Z/Pawductive-X.Y.Z.dmg" // TODO: replace when you publish mac
+  windows: "https://github.com/Shinhai/Pawductive-Updates/releases/download/v1.0.8/Pawductive-Setup-1.0.8.exe",
+  macos:   "https://github.com/Shinhai/Pawductive-Updates/releases/download/v1.0.8/Pawductive-1.0.8-universal.dmg" // TODO: replace when you publish mac
 };
 
 // ===== 2) Wire up fallbacks and button handlers =====
